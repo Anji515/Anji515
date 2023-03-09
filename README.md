@@ -12,7 +12,7 @@
 <br><br>
 
 # 💫 About Me:
-🔭 I’m currently preparing for placements!<br>🌱 I’m currently learning Node.js, Express.js, MongoDB<br>💬 Ask me about MERN, Backend<br>📫 How to reach me anji.gd17@gmail.com<br>📄 Know about my experiences [See My Resume](https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link)<br>👨🏻‍🔧 Want to know more about me? Checkout my Portfolio.<br>⚡ Fun fact Crazy for coding<br><br>
+🔭 I’m currently preparing for placements!<br>🌱 I’m currently learning Node.js, Express.js, MongoDB<br>💬 Ask me about MERN, Backend<br>📫 How to reach me anji.gd17@gmail.com<br>📄 Know about my experiences [See My Resume](https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link)<br>👨🏻‍🔧 Want to know more about me? Checkout [my Portfolio](https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link).<br>⚡ Fun fact Crazy for coding<br><br>
 
 <!-- <p><a href='https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link'> -->
 
