@@ -1,5 +1,5 @@
 <!-- Home Section  -->
-<img width="100%" height='320px' src='https://gumlet.assettype.com/barandbench%2Fimport%2F2018%2F12%2Fcomputer-pallavi-mam.jpg?auto=format%2Ccompress&fit=max&format=webp&w=768&dpr=1.3' alt='mainImage' />
+<img width="100%" height='320px' src='https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png' alt='mainImage' />
 
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png) -->
 
