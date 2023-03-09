@@ -12,7 +12,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <p align="center">I'm a solution driven Full Stack Developer skilled in JavaScript, HTML, CSS & React. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Full Stack Developer. Love to work in a team.</p>
 <br/>
-<img width='100%' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif' />
+<!-- <img width='100%' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif' /> -->
 
 <br/>
 
