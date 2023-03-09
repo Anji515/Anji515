@@ -1,10 +1,16 @@
 ### Hi there 👋
 <!-- Home Section  -->
-[![MasterHead](https://camo.githubusercontent.com/9e6fd269bd679257e2f85d8520ca75fa3bcf3f29fbcee3db65b763ef144cb653/68747470733a2f2f646576746563686e6f7379732e636f6d2f696e7369676874732f77702d636f6e74656e742f75706c6f6164732f323032322f30392f5048502d446576656c6f706572732e676966)]()
+[![MasterHead](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)]()
 
 <h1 align="left">Hey there, I'm Kommu Anjaneyulu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)](https://git.io/typing-svg)
+
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<p align="center">I'm a solution driven Full Stack Developer skilled in JavaScript, HTML, CSS & React. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Full Stack Developer. Love to work in a team.</p>
+<br>
+<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
+<br><br>
 
 # 💫 About Me:
 🔭 I’m currently preparing for placements!<br>🌱 I’m currently learning Node.js, Express.js, MongoDB<br>💬 Ask me about MERN, Backend<br>📫 How to reach me anji.gd17@gmail.com<br>📄 Know about my experiences See Resume.<br>👨🏻‍🔧 Want to know more about me? Checkout my Portfolio.<br>⚡ Fun fact Crazy for coding<br><br>
