@@ -11,14 +11,14 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <p align="center">I'm a solution driven Full Stack Developer skilled in JavaScript, HTML, CSS & React. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Full Stack Developer. Love to work in a team.</p>
 <br>
-
+<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 <br><br>
 
 # 💫 About Me:
 
+[![](https://visitcount.itsvg.in/api?id=Anji515&icon=5&color=3)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="300" height='330px' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" >
-<img align="left" width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
-<!-- <p ><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
 
 - 🔭 I’m currently preparing for placements!
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB** .
@@ -43,7 +43,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Anji515&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anji515&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
