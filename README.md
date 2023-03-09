@@ -62,8 +62,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Anji515&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 <br/>
-<br/>
----
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
