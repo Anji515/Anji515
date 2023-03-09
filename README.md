@@ -12,8 +12,9 @@
 <br><br>
 
 # 💫 About Me:
-🔭 I’m currently preparing for placements!<br>🌱 I’m currently learning Node.js, Express.js, MongoDB<br>💬 Ask me about MERN, Backend<br>📫 How to reach me anji.gd17@gmail.com<br>📄 Know about my experiences see <p><a href='https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link'>my Resume</a></p> .<br>👨🏻‍🔧 Want to know more about me? Checkout my Portfolio.<br>⚡ Fun fact Crazy for coding<br><br>
+🔭 I’m currently preparing for placements!<br>🌱 I’m currently learning Node.js, Express.js, MongoDB<br>💬 Ask me about MERN, Backend<br>📫 How to reach me anji.gd17@gmail.com<br>📄 Know about my experiences see my Resume[!(https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link)]()<br>👨🏻‍🔧 Want to know more about me? Checkout my Portfolio.<br>⚡ Fun fact Crazy for coding<br><br>
 
+<!-- <p><a href='https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link'> -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjidarling_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjaneyulu-kommu-648a1613b) 
