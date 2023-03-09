@@ -1,11 +1,13 @@
 <!-- Home Section  -->
-<img width="100%" height='320px' src='https://platform9.com/wp-content/uploads/2020/09/kubernetes-and-CDNs-1280x720.png' alt='mainImage' />
+<img width="100%" height='320px' src='https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif
+' alt='mainImage' />
 
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png) -->
 
 <!-- https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif -->
 
 <h1 align="left">Hey there, I'm Kommu Anjaneyulu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)](https://git.io/typing-svg)
 
