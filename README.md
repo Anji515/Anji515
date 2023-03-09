@@ -12,7 +12,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <p align="center">I'm a solution driven Full Stack Developer skilled in JavaScript, HTML, CSS & React. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Full Stack Developer. Love to work in a team.</p>
 <br>
-<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
+<img width='100%' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif' />
 <br><br>
 
 # 💫 About Me:
@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB** .
 - 💬 Ask me about MERN, Backend .
 - 📫 How to reach me anji.gd17@gmail.com .
-- 📄 Know about my experiences [See My Resume](https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1ElzDNWV-wltam9S_K7Ur-ITTX4gCE3p6/view?usp=share_link)
 - 👨🏻‍🔧 Want to know more about me? Checkout [my Portfolio](https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link).
 - ⚡ Fun fact Crazy for coding
 <br><br>
