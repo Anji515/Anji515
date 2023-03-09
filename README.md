@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently preparing for placements!<br><br>🌱 I’m currently learning Node.js, Express.js, MongoDB<br><br>💬 Ask me about MERN, Backend<br><br>📫 How to reach me anji.gd17@gmail.com<br><br>📄 Know about my experiences See Resume.<br><br>👨🏻‍🔧 Want to know more about me? Checkout my Portfolio.<br><br>⚡ Fun fact Crazy for coding<br><br>
+🔭 I’m currently preparing for placements!<br>🌱 I’m currently learning Node.js, Express.js, MongoDB<br>💬 Ask me about MERN, Backend<br>📫 How to reach me anji.gd17@gmail.com<br>📄 Know about my experiences See Resume.<br>👨🏻‍🔧 Want to know more about me? Checkout my Portfolio.<br>⚡ Fun fact Crazy for coding<br><br>
 
 
 ## 🌐 Socials:
