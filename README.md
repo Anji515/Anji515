@@ -1,5 +1,5 @@
 <!-- Home Section  -->
-<img width="100%" height='320px' src='https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png' alt='mainImage' />
+<img width="100%" height='320px' src='https://simplea.com/getmedia/2fa8d449-bdbb-42c6-ac76-01b8db68d9dc/2_3_86_Simplea_com_blog_article_What_Is_Website_Taxonomy_and_Metadata_cover_800x400.jpg.aspx' alt='mainImage' />
 
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png) -->
 
