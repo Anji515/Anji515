@@ -53,9 +53,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anji515&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anji515&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anji515&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+<br/>
+<br/>
 ---
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
