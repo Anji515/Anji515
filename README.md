@@ -1,5 +1,5 @@
 <!-- Home Section  -->
-<img width="100%" height='320px' src='https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg' alt='mainImage' />
+<img width="100%" height='320px' src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5tmOZPz-v75KDJ5sapfuIJvJcIm20NI9reuawChNKrxU_Y9P3' alt='mainImage' />
 
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png) -->
 
