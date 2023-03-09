@@ -1,6 +1,5 @@
 <!-- Home Section  -->
-<img width="100%" height='320px' src='https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif
-' alt='mainImage' />
+<img width="100%" height='320px' src='https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif' alt='mainImage' />
 
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png) -->
 
