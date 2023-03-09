@@ -1,8 +1,8 @@
 ### Hi there 👋
 <!-- Home Section  -->
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://shahabhi095.github.io)
+[![MasterHead](https://camo.githubusercontent.com/9e6fd269bd679257e2f85d8520ca75fa3bcf3f29fbcee3db65b763ef144cb653/68747470733a2f2f646576746563686e6f7379732e636f6d2f696e7369676874732f77702d636f6e74656e742f75706c6f6164732f323032322f30392f5048502d446576656c6f706572732e676966)]()
 
-<h1 align="left">Hey there, I'm Rishav Chakraborty<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hey there, I'm Kommu Anjaneyulu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)](https://git.io/typing-svg)
 
