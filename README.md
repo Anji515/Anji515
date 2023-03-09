@@ -1,5 +1,5 @@
 <!-- Home Section  -->
-<img width="100%" height='320px' src='https://www.watchguard.com/sites/default/files/Protection_Detection_Response_Hero.jpg' alt='mainImage' />
+<img width="100%" height='320px' src='https://platform9.com/wp-content/uploads/2020/09/kubernetes-and-CDNs-1280x720.png' alt='mainImage' />
 
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png) -->
 
