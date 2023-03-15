@@ -23,7 +23,7 @@
 - 💬 Ask me about MERN, Backend .
 - 📫 How to reach me anji.gd17@gmail.com .
 - 📄 Know about my experiences [See My Resume](https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link)
-- 👨🏻‍🔧 Want to know more about me? Checkout [my Portfolio](https://anji515.github.io/).
+- 👨🏻‍🔧 Want to know more about me? Checkout (https://anji515.github.io/) .
 - ⚡ Fun fact Crazy for coding
 <br><br>
 
