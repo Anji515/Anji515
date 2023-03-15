@@ -1,8 +1,8 @@
 <!-- Home Section  -->
 [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://anji515.github.io)
-<!-- <img width="100%" height='320px' src='https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png' alt='mainImage' /> -->
+<a href='https://anji515.github.io'><h1 align="left">Hey there, I'm Kommu Anjaneyulu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></a>
 
-<h1 align="left">Hey there, I'm Kommu Anjaneyulu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)](https://git.io/typing-svg)
 
