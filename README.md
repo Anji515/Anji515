@@ -13,7 +13,7 @@
 
 # 💫 About Me:
 
-[![](https://visitcount.itsvg.in/api?id=Anji515&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Anji515&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="300" height='230px' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" >
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
 
