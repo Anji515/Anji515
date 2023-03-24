@@ -55,7 +55,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 # 📊 GitHub Merits:
-<p align="center">
+<p>
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anji515&count_private=true&include_all_commits=true&theme=react" />
 </p>
 <br/>
