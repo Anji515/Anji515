@@ -54,6 +54,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+# 📊 GitHub Merits:
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anji515&count_private=true&include_all_commits=true&theme=react" />
+</p>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anji515&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
