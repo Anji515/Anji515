@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB** .
 - 💬 Ask me about MERN, Backend .
 - 📫 How to reach me anji.gd17@gmail.com .
-- 📄 Know about my experiences [See My Resume](https://drive.google.com/drive/folders/17mKOmp_sABSGX81uO9V__lwXiMReyF3A?usp=share_link)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1b1_HBRALnWgUZldS9m16cOtiUcDsNi_N/view?usp=sharing)
 - 👨🏻‍🔧 Want to know more about me? Checkout [Portfolio](https://anji515.github.io/) 
 - ⚡ Fun fact Crazy for coding
 <br><br>
